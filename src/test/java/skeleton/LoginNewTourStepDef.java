@@ -14,7 +14,7 @@ public class LoginNewTourStepDef {
 	
 	private WebDriver driver;
 	
-	@Given("^user is on login page of newtours$")
+	@Given("^user is on login page of herokuapp$")
 	public void user_is_on_login_page_of_newtours() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 	   

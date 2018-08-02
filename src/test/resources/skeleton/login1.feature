@@ -7,7 +7,7 @@ Feature: Login
   -Register user can only do transactions
   
 	Background: 
-		Given user is on login page of newtours
+		Given user is on login page of herokuapp
   @tag1
   Scenario: user can do succesful Login
     #Given user is on login page of newtours
